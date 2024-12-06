@@ -55,10 +55,12 @@ htmlcov/
 # Editor/IDE settings
 .vscode/
 .idea/
+.idea
 *.sublime-workspace
 *.sublime-project
 
 # Packages and dependencies
+*.idea
 *.egg
 *.egg-info/
 dist/
