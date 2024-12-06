@@ -1,0 +1,97 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+env/
+venv/
+ENV/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+.env.*
+
+# Logs and debugging
+*.log
+*.out
+*.err
+logs/
+debug/
+
+# Cache files
+*.sqlite3
+*.db
+*.bak
+*.swp
+*.swo
+*.tmp
+*.cache/
+*.pytest_cache/
+
+# Coverage and testing
+htmlcov/
+.coverage
+.tox/
+.nox/
+.cache/
+*.cover
+
+# Pytest
+.pytest_cache/
+
+# MyPy
+.mypy_cache/
+
+# MacOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor/IDE settings
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Packages and dependencies
+*.egg
+*.egg-info/
+dist/
+build/
+*.egg-info/
+
+# Flask/Django specific
+instance/
+*.pyc
+*.pyo
+*.db
+
+# Temporary files and backups
+*.~*
+*.bak
+~$*
+
+# Generated files
+docs/_build/
+
+# Deployment
+*.pid
+
+# Jupyter Notebook Metadata
+*.ipynb_checkpoints/
+
+# Docker
+.dockerignore
+Dockerfile
+docker-compose.yml
+
+# AWS credentials
+*.pem
+
+# Security
+secrets.json
